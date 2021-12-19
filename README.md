@@ -5,6 +5,8 @@ By far the project that I have worked on the most, I liked the idea, so I wanted
 
 # Idea
 The idea was simple. This was made during the Infinity war hype, and so was clearly influenced by how cool it would be to have a character die instead of body parts of a hangman. As I didnt know how to add video files in C++, I exported frames of the actual movie, and played them real quick like a gif. (Yet another idea that didnt dawn on me at the time). 
+Due to all that, there are thousands of files in this Project, and I havent improved it for the sake of Nostalgia.
+
 
 The Themes include
 1. Marvel
