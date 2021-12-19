@@ -21,3 +21,16 @@ To run this you can just download this repository and run HangMan.exe.
 
 
 # Screenshots
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/Screenshot%20on%2017-12-21%20at%2014-18-44.jpg)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_oWyEf8191Z.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_praiyHWOTy.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_osjNQOqFHP.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_tArX3FKd7l.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_E3ZKPuNWuL.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_3mhKJ4kYVR.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_GhNVdLDjrm.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_KOh930Ju08.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_UhVIEyC2UK.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_rDBCzCCNL4.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_xRJoB1WN6r.png)
+![](https://github.com/KrishnarajT/The-Hangman-Project/blob/master/Screenshots/HangMan_3mhKJ4kYVR.png)
