@@ -14,4 +14,8 @@ The Themes include
 
 So there are heartbreaking scenes from all these movies that get played each time you mis guess a character. 
 
+# Installation
+To run this you can just download this repository and run HangMan.exe.
+
+
 # Screenshots
