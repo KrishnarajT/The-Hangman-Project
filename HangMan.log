@@ -1,0 +1,68 @@
+﻿  Source.cpp
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2334,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2334,16): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2339,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2339,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2344,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2344,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2349,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2349,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2354,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2354,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2359,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2359,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2364,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2364,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2369,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2369,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2374,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2374,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2379,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2379,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2384,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2384,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2389,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2389,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2394,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2394,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2399,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2399,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2404,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2404,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2408,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2408,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2414,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2414,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2419,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2419,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2424,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2424,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2429,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2429,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2434,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2434,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2439,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2439,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2444,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2444,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2449,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2449,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2454,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2454,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2459,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2459,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2613,26): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3731,18): warning C4101:  'e': unreferenced local variable
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3731,21): warning C4101:  'f': unreferenced local variable
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3731,27): warning C4101:  'h': unreferenced local variable
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3731,24): warning C4101:  'g': unreferenced local variable
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3731,15): warning C4101:  'd': unreferenced local variable
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(1684): warning C4715:  'Player::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3177): warning C4715:  'Menu::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3275): warning C4715:  'Help_and_About::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3497): warning C4715:  'Store::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3725): warning C4715:  'Settings::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(3099): warning C4715:  'Sub_Types::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(2945): warning C4715:  'Play_Game::Main': not all control paths return a value
+C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\HangMan\Source.cpp(268): warning C4715:  'Dialog_Box::Main': not all control paths return a value
+  HangMan.vcxproj -> C:\Users\littl\Desktop\Programs\C++\Projects\HangMan\Debug\HangMan.exe
